@@ -65,7 +65,7 @@ The Apriori algorithm produced **34 strong rules**. The three most notable are h
 
 | Rule Visualization |
 |---|
-| ![Rule1](Rule1.png) |
+| ![Rule1](output/Rule1.png) |
 
 ---
 
@@ -81,7 +81,7 @@ The Apriori algorithm produced **34 strong rules**. The three most notable are h
 
 | Rule Visualization |
 |---|
-| ![Rule2](Rule2.png) |
+| ![Rule2](output/Rule2.png) |
 
 ---
 
@@ -97,14 +97,14 @@ The Apriori algorithm produced **34 strong rules**. The three most notable are h
 
 | Rule Visualization |
 |---|
-| ![Rule3](Rule3.png) |
+| ![Rule3](output/Rule3.png) |
 
 ---
 #### All Generated Rules
 
 | Full Rules Table |
 |---|
-| ![Full](Full.png) |
+| ![Full](output/Full.png) |
 
 ---
 
